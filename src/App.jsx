@@ -21,6 +21,7 @@ function App() {
 
   return (
     <Routes>
+      <div id="navigation">
       <Route element={<Layout />}>
         <Route path='/' element={ <Home /> } />
         <Route path='/home' element={ <Home /> }/>
@@ -28,6 +29,7 @@ function App() {
         <Route path='/dentist/:id' element={ <Detail/> }/>
         <Route path='/favs' element={ <Favs/> }/> 
       </Route>
+      </div>
     </Routes>
   );
 }

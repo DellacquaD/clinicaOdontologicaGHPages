@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clinicaOdontologicaGHPages/static/css/main.4bec341e.css",
+    "main.js": "/clinicaOdontologicaGHPages/static/js/main.070bc6ba.js",
+    "index.html": "/clinicaOdontologicaGHPages/index.html",
+    "main.4bec341e.css.map": "/clinicaOdontologicaGHPages/static/css/main.4bec341e.css.map",
+    "main.070bc6ba.js.map": "/clinicaOdontologicaGHPages/static/js/main.070bc6ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bec341e.css",
+    "static/js/main.070bc6ba.js"
+  ]
+}
